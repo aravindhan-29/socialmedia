@@ -1,7 +1,0 @@
-Frontend : 
-	npm i
-	npm start
-backend : 
-	create database "zosh_social"
-	change mysql username and password in application.properties file
-	run project
